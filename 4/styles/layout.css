@@ -1,0 +1,43 @@
+html {
+    font-size: 62.5%;
+}
+body {
+    background-color: #cccccc;
+}
+
+p {
+    padding: 1rem;
+    font-size: 1.8rem;
+}
+
+.logo {
+    padding: 1rem;
+    font-size: 4.6rem;
+    color: rgb(200,203,206);
+    background-color: white;
+}
+
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+
+    
+}
+.navbar li {
+    margin: 1rem;
+}
+
+.navbar a {
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: black;
+    text-decoration: none;
+    align-items: flex-start;
+    
+}
+.image {
+    background-color: white;
+    padding: 1rem;
+    margin: 1rem;
+}
